@@ -1,6 +1,4 @@
-# learning-language
-
-# To learn any language fast remember u need to keep following point in mind
+# Points to keep in mind before learning a new language: 
 
 1. Watch shows and listen to podcasts in that language.
 
